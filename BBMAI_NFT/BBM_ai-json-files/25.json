@@ -1,0 +1,18 @@
+{
+    "name" :"Mother",
+    "description": "Monkey mother",
+    "image" : "https://ipfs.io/ipfs/bafybeigwmu2xoigabx7pqvze66mze3yz6vryqar4p7ww2vl7nvcfkivlxa/68.png",
+    "attributes": [
+        {
+            "trait_type": "Mom",
+            "rating": 25,
+            "rating_scale": 69
+        },
+        
+        {
+            
+            
+        }
+
+    ]
+}

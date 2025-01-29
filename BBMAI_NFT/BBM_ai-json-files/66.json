@@ -1,0 +1,18 @@
+{
+    "name" :"Apples and tequila",
+    "description": "Cover Yourself",
+    "image" : "https://ipfs.io/ipfs/bafybeigwmu2xoigabx7pqvze66mze3yz6vryqar4p7ww2vl7nvcfkivlxa/37.png",
+    "attributes": [
+        {
+            "trait_type": "Apple",
+            "rating": 66,
+            "rating_scale": 69
+        },
+        
+        {
+            
+            
+        }
+
+    ]
+}

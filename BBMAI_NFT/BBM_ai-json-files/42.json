@@ -1,0 +1,18 @@
+{
+    "name" :"Monkey of the bakery",
+    "description": "Cookies for all of us",
+    "image" : "https://ipfs.io/ipfs/bafybeigwmu2xoigabx7pqvze66mze3yz6vryqar4p7ww2vl7nvcfkivlxa/1.png",
+    "attributes": [
+        {
+            "trait_type": "Butter",
+            "rating": 42,
+            "rating_scale": 69
+        },
+        
+        {
+            
+            
+        }
+
+    ]
+}

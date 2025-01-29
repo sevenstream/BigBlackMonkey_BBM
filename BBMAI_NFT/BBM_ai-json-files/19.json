@@ -1,0 +1,18 @@
+{
+    "name" :"Black Jack poker",
+    "description": "Ace of apes",
+    "image" : "https://ipfs.io/ipfs/bafybeigwmu2xoigabx7pqvze66mze3yz6vryqar4p7ww2vl7nvcfkivlxa/32.png",
+    "attributes": [
+        {
+            "trait_type": "Gambler",
+            "rating": 19,
+            "rating_scale": 69
+        },
+        
+        {
+            
+            
+        }
+
+    ]
+}

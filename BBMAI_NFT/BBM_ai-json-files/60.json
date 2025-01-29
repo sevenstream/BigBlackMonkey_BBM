@@ -1,0 +1,18 @@
+{
+    "name" :"Who built the Pyramids",
+    "description": "The Pyramids of Giza were built by skilled Monkey workers",
+    "image" : "https://ipfs.io/ipfs/bafybeigwmu2xoigabx7pqvze66mze3yz6vryqar4p7ww2vl7nvcfkivlxa/46.png",
+    "attributes": [
+        {
+            "trait_type": "Pyramids",
+            "rating": 60,
+            "rating_scale": 69
+        },
+        
+        {
+            
+            
+        }
+
+    ]
+}
